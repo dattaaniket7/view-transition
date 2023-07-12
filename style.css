@@ -1,11 +1,19 @@
-.card img {
-    width: 100%;
-    object-fit: cover;
-    border-radius: 1rem;
+h1 {
+    text-align: center;
 }
 
-.container {
-    margin: 0% 20%;
+section {
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+
+}
+
+img {
+    height: 250px;
+    width: 250px;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .card-transition-small {
